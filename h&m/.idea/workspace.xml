@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75013e10-c3bb-417a-b5d1-3e87a8e2aa18" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iu9kpUIA6l9tdUqkCmQz2Wmf4C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pics" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gaby\WebstormProjects\h&amp;m\pics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gaby\WebstormProjects\h&amp;m\pics" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75013e10-c3bb-417a-b5d1-3e87a8e2aa18" name="Default Changelist" comment="" />
+      <created>1602746757316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602746757316</updated>
+      <workItem from="1602746758543" duration="6433000" />
+      <workItem from="1602755165373" duration="3707000" />
+      <workItem from="1602759071215" duration="142000" />
+      <workItem from="1602835238220" duration="6413000" />
+      <workItem from="1602850974072" duration="14391000" />
+      <workItem from="1602873702678" duration="5000" />
+      <workItem from="1602874144516" duration="2000" />
+      <workItem from="1602874232578" duration="127000" />
+      <workItem from="1602874468317" duration="181000" />
+      <workItem from="1602882828996" duration="7864000" />
+      <workItem from="1602927996721" duration="17485000" />
+      <workItem from="1602954371194" duration="2000" />
+      <workItem from="1602957778307" duration="2000" />
+      <workItem from="1602971346879" duration="1075000" />
+      <workItem from="1603029520184" duration="1203000" />
+      <workItem from="1603093570371" duration="2000" />
+      <workItem from="1603094824946" duration="39000" />
+      <workItem from="1603439882186" duration="140000" />
+      <workItem from="1604380562382" duration="751000" />
+      <workItem from="1604381366799" duration="3000" />
+      <workItem from="1604384856633" duration="900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1602953892786">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1602953892786" />
+    <state x="303" y="1" width="670" height="58" key="search.everywhere.popup" timestamp="1602750938356">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="670" height="58" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1602750938356" />
+  </component>
+</project>
